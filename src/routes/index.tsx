@@ -22,7 +22,7 @@ export default component$(() => {
 					<span class="sm:hidden">Antecipe seu FGTS</span>
 				</a>
 
-				<a href="https://wa.me/5588935002089" class="link">
+				<a href="https://wa.me/5588993432811" class="link">
 					Negativado? Aqui tem crédito
 				</a>
 				<a href="https://seficredito.com.br" class="link">
