@@ -12,7 +12,7 @@ export default component$(() => {
 					href="https://contadeluz.seficredito.com.br"
 					class="link link-primary"
 				>
-					Empréstimo na Conta de Luz
+					Empréstimo na Conta de Energia
 				</a>
 
 				<a href="https://fgts.seficredito.com.br" class="link">
