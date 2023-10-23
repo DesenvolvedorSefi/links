@@ -28,7 +28,7 @@ export default component$(() => {
 				<a href="https://seficredito.com.br" class="link">
 					Nosso site
 				</a>
-				<a href="https://wa.me/5588981468496" class="link">
+				<a href="https://wa.me/5588993432811" class="link">
 					Fale conosco
 				</a>
 			</div>
